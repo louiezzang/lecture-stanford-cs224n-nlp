@@ -8,11 +8,7 @@
 
 Event | Date | Description | Course Materials
 ------------ | ------------- | ------------- | -------------
-Lecture	| Jan 9	| Introduction to NLP and Deep Learning \n [[slides]](./lecture1.pdf) | Suggested Readings: 
-1. [Linear Algebra Review] 
-2. [Probability Review] 
-3. [Convex Optimization Review] 
-4. [More Optimization (SGD) Review]
+Lecture	| Jan 9	| Introduction to NLP and Deep Learning <br>[[slides]](./lecture1.pdf) | Suggested Readings: <br>1. [Linear Algebra Review] <br>2. [Probability Review] <br>3. [Convex Optimization Review] <br>4. [More Optimization (SGD) Review]
 
 
 
