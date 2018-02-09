@@ -18,6 +18,7 @@ Lecture3 | Jan 16 | Word Vectors 2 <br>[[slides]](./lecture3.pdf) | Suggested Re
 ## Assignment Solutions
 [Assignment solutions in Google search](https://www.google.co.id/search?newwindow=1&dcr=0&ei=7RNqWo6sKIuDvQSjm4yYAQ&q=cs224n+assignment+solution&oq=cs224n+assignment+solution&gs_l=psy-ab.3...137131977.137144437.0.137144823.32.25.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..32.0.0....0.rK309CWPZVo)
 
-https://github.com/maxim5/cs224n-winter-2017
+All lecture notes, slides and assignments from CS224n
+https://github.com/maxim5/cs224n-winter-2017 
 
 	
