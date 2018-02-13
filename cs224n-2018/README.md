@@ -21,4 +21,7 @@ Lecture3 | Jan 16 | Word Vectors 2 <br>[[slides]](./lecture3.pdf) | Suggested Re
 All lecture notes, slides and assignments from CS224n
 https://github.com/maxim5/cs224n-winter-2017 
 
-	
+## Etc.
+Understanding of Backpropagation
+http://jaejunyoo.blogspot.com/2017/01/backpropagation.html
+https://www.ics.uci.edu/~pjsadows/notes.pdf
