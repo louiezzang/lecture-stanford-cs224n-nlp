@@ -23,5 +23,5 @@ https://github.com/maxim5/cs224n-winter-2017
 
 ## Etc.
 ### Understanding of Backpropagation
-* http://jaejunyoo.blogspot.com/2017/01/backpropagation.html
-* https://www.ics.uci.edu/~pjsadows/notes.pdf
+* http://cs231n.github.io/optimization-2/ 
+* http://jaejunyoo.blogspot.com/2017/01/backpropagation.html (https://www.ics.uci.edu/~pjsadows/notes.pdf)
