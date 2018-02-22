@@ -30,3 +30,4 @@ https://github.com/maxim5/cs224n-winter-2017
 * http://jaejunyoo.blogspot.com/2017/01/backpropagation.html (https://www.ics.uci.edu/~pjsadows/notes.pdf)
 * https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 * [Softmax classfication](http://peterroelants.github.io/posts/neural_network_implementation_intermezzo02/) & [Cross-entropy cost function](http://peterroelants.github.io/posts/neural_network_implementation_intermezzo02/#Cross-entropy-cost-function-for-the-softmax-function)
+* [Cross-entropy cost function](https://www.youtube.com/watch?v=jMU9G5WEtBc) video by SungKim
